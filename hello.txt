@@ -1,2 +1,3 @@
 Hello, Git!
 This is my SE lab task explaining git and github version control.
+I am learning Git and GitHub.
